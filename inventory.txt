@@ -1,8 +1,0 @@
-101,ABC,2
-103,Oranges,28
-402,Guns,2
-201,Bubble Gum,10
-502,Dogs,6
-222,Mangoes,43
-893,Water,232
-232,Chips,10
